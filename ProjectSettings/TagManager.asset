@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2835151545
+    locked: 0
+  - name: DistantClouds
+    uniqueID: 3974984269
+    locked: 0
+  - name: Mountains
+    uniqueID: 685882843
+    locked: 0
+  - name: CloseClouds
+    uniqueID: 2891521495
+    locked: 0
+  - name: Trees
+    uniqueID: 4286586541
+    locked: 0
+  - name: Objects
+    uniqueID: 1699119667
+    locked: 0
+  - name: Player
+    uniqueID: 3027182291
+    locked: 0
